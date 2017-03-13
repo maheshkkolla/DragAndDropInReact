@@ -1,0 +1,44 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+.sku {
+  width: 70px;
+  height: 70px;
+  background-color: #2b669a;
+  color: #b9def0;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top;
+}
+
+.sku .skuTitle {
+  font-size: 18px;
+  text-align: center;
+}
+
+.todoLane {
+  height: 800px;
+  width: 220px;
+  display: inline-block;
+  border: 1px solid #a9a9a9;
+  background-color: #e3e3e3;
+  margin: 20px;
+  vertical-align: top;
+
+}
+
+.todoLane .laneTitle {
+  font-size: 26px;
+  text-align: center;
+  border-bottom: 1px solid;
+  font-variant: small-caps;
+  border-color: inherit;
+}
